@@ -1,0 +1,19 @@
+.header {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.logo {
+  background-image: url("../../../public/logo.bmp");
+  width: 70px;
+  height: 70px;
+  background-size: cover;
+}
+
+.nav {
+  display: flex;
+  column-gap: 15px;
+  list-style: none;
+}
